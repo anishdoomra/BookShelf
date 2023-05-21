@@ -1,0 +1,65 @@
+	<div id="bg">
+
+		<div id="home">
+			<h1>
+				Welcome To The World Of<br>
+				<center>Books</center>
+			</h1>
+			<a href="#categories" class="about-btn books-btn">
+				Book Shelf
+			</a>
+		</div>
+	</div>
+	<section id="categories">
+
+		<span id="space"></span>
+		<div class="card">
+			<a href="#">
+				<img src="ALL COVERS GENRES/sci fi.jpg" alt="books">
+				<div class="card-content">
+					<h1>
+						<center>Sci-Fi</center>
+					</h1>
+					<p>Be it engaging yourself into the world of George Orwell or finding your lost curiosity in the
+						oddyyseys of space, this section won't let you disappointed!</p>
+				</div>
+			</a>
+		</div>
+		<div class="card">
+			<a href="#">
+				<img src="ALL COVERS GENRES/finance.jpg" alt="books">
+				<div class="card-content">
+					<h1>
+						<center>Finance</center>
+					</h1>
+					<p>From the great walls of the Wallstreet to knowing everything about Warren Buffet, this section
+						would be your own building block for knowing more about investment and compounding.</p>
+
+				</div>
+			</a>
+		</div>
+		<div class="card">
+			<a href="#">
+				<img src="ALL COVERS GENRES/romance.jpg" alt="books">
+				<div class="card-content">
+					<h1>
+						<center>Romance</center>
+					</h1>
+					<p>Behold the power of love and cherish the simple yet lifelong joys it brings, romance seeks no
+						season, nor shall the genre should! Explore it now and feel like autumn.</p>
+				</div>
+			</a>
+		</div>
+		<div class="card">
+			<a href="#">
+				<img src="ALL COVERS GENRES/mystery.jpg" alt="books">
+				<div class="card-content">
+					<h1>
+						<center>Mystery</center>
+					</h1>
+					<p>From the best-sellers of Agatha Christie to the lost symbol of Dan Brown, there's a book for
+						every Sherlock Holmes intrigued reader! Be mindful of this section, it will make your time
+						bound-less</p>
+				</div>
+			</a>
+		</div>
