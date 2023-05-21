@@ -45,6 +45,46 @@ ul{
 	list-style-type: none;
 	display: flex;
 }
+html{
+	scroll-behavior: smooth;
+}
+
+body{ 
+	min-height: 100vh;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	z-index: -10;
+}
+
+
+section{
+	background-image: linear-gradient(to right top,#3d3d3d 50%,var(--bg_light) 50%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 99.5vw; margin-left: -15px;margin-top: 0px;
+}
+
+header{
+
+	position: fixed;
+	margin-top: -16px;
+	margin-left:-10px;
+	display: flex;
+	justify-content: space-between;
+	height: 70px;
+	width: 100vw;
+	background:#3d3d3d;
+	box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+	/* border-radius: 10px; */
+	backdrop-filter:blur(15px);
+	z-index:0 ;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+}
 #logo{
 	
 	height: 68px;
